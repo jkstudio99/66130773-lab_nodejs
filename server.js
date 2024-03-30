@@ -13,7 +13,7 @@ const options = {
     info: {
       title: "66130773 WARONGKON FUKTHONGYOO",
       version: "1.0.0",
-      description: "WE DPU Student API  Lab",
+      description: "WE DPU Student API  Lab2",
     },
   },
   apis: ["./routes/*.js"],
